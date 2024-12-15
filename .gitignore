@@ -1,3 +1,9 @@
+# Custom added
+# ------------
+/kirby
+/vendor
+/storage
+
 # System files
 # ------------
 
